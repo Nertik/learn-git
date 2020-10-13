@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  margin: 0;
+}
+
+#search {
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+  box-sizing: border-box;
+  font-size: 16px;
+  opacity: 1;
+  width: 320px;
+  height: 29px;
+  font-size: 16px;
+  margin-left: 25px;
+}
+
+#logo-head {
+  width: 80px;
+  margin-top: 20px;
+  margin-left: 230px;
+}
+
+.header {
+  background-color: white;
+}
